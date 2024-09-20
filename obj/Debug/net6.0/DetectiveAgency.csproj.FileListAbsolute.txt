@@ -75,3 +75,4 @@ D:\Web Application Development\DetectiveAgency-master\obj\Debug\net6.0\refint\De
 D:\Web Application Development\DetectiveAgency-master\obj\Debug\net6.0\DetectiveAgency.pdb
 D:\Web Application Development\DetectiveAgency-master\obj\Debug\net6.0\DetectiveAgency.genruntimeconfig.cache
 D:\Web Application Development\DetectiveAgency-master\obj\Debug\net6.0\ref\DetectiveAgency.dll
+D:\Web Application Development\DetectiveAgency-master\obj\Debug\net6.0\DetectiveAgency.sourcelink.json

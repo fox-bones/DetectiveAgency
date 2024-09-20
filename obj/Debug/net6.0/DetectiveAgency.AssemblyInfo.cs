@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DetectiveAgency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef5e3c40786c4c7c1b905f46167b8c42decef308")]
 [assembly: System.Reflection.AssemblyProductAttribute("DetectiveAgency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DetectiveAgency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
